@@ -1,0 +1,7 @@
+dependencies:
+  cache_directories:
+    - env
+  pre:
+    - "pip install virtualenv"
+    - "if [ ! -d  env ]; then virtualenv env; fi"
+    - "source env/bin/activate"
