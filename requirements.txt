@@ -1,1 +1,2 @@
 python-saml==2.1.6
+blinker==1.4
