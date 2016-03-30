@@ -21,6 +21,9 @@ itsdangerous==0.24
 libsass==0.10.0
 mailjet_rest==1.1.1
 multiprocessing==2.6.2.1
+numexpr==2.4
+numpy==1.10.2
+pandas==0.17.1
 pdfkit==0.5.0
 psutil==3.4.2
 pyjwt==1.4.0
